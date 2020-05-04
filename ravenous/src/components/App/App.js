@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './favicon.ico';
+import logo from './../../favicon.ico';
 import './App.css';
 
 function App() {
@@ -7,16 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <br></br>
+        <br></br>
         <p>
-          Stay Focussed
+          Stay Focussed Stu
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.rabbitohs.com.au/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Rabbitohs
         </a>
       </header>
     </div>
